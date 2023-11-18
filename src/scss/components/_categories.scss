@@ -1,6 +1,9 @@
 @import "../variables";
 
 .categories {
+  p {
+    color: red;
+  }
   ul {
     display: flex;
 
